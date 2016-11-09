@@ -117,3 +117,4 @@ open_file_object.writerows(zip(ids, output))
 predictions_file.close()
 print 'Done.'
 print 'test1'
+print 'test2'
